@@ -1,29 +1,27 @@
+<img width="3188" height="1202" alt="image" src="https://github.com/user-attachments/assets/61823eca-8d6c-4510-aa3a-c4b03e21defc" />
 
-Ook Holic 🎯
+Ook Holic🎯
 Basic Details
 Team Name: Bibishh
 Team Members
-Team Lead: SHIBIN BIJU MATHEW - COLLEGE OF ENGINEERING CHENGANNUR
-Member 2: [Name] - [College]
-Member 3: [Name] - [College]
+Team Lead: Shibin Biju Mathew - College of Engineering Chengannur
+
 Project Description
-An interactive website that detects user emotions and replies with sass answers.Also a few other hidden twist to keep us engaged.
+A project that deals with the sarcastic level of a user. It is a website that detects users emotions and deals it sarcastically. 
 
 The Problem (that doesn't exist)
-Well this is an useless project that doesnt solve real world problems, doesnt improve user life, doesnt motivate you and also not factul at all..
+Well what more useless that playing with the user itself. This project does have problems with the user, maybe i guess.
 
 The Solution (that nobody asked for)
-Basically solving it didnt need my brain at all. Good at sarcasm was a plus point for me. Well in this project every question has an answer but not the right ones with a sarcastic touch. Hahaha not normal at all. Also, you asked me the solution and i, print "no solution" 
+Solution is the only delution i say to be honest.Every problemn has solution but for a useless problem it needs to create more problems than solution. Well, writing this is the biggest problem i face now.
 
 Technical Details
 Technologies/Components Used
 For Software:
 
 HTML,JAVA,CSS
-[Frameworks used]
-[Libraries used]
-[Tools used]
 
+Implementation
 For Software:
 
 Installation
@@ -69,4 +67,7 @@ Additional Demos
 Team Contributions
 [Name 1]: [Specific contributions]
 [Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions
+[Name 3]: [Specific contributions]
+Made with ❤️ at TinkerHub Useless Projects
+
+Static Badge 
