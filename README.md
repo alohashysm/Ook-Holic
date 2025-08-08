@@ -21,53 +21,35 @@ For Software:
 
 HTML,JAVA,CSS
 
-Implementation
-For Software:
-
-Installation
-[commands]
-
-Run
-[commands]
-
-Project Documentation
-For Software:
-
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+<img width="1904" height="916" alt="ookholic1pg" src="https://github.com/user-attachments/assets/5ea19a66-65ab-472b-8abf-20f27a30c8cb" />
+This projects 1st page starts with a basic info about project and the begining to the world of sarcasm.
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+<img width="1909" height="919" alt="ookholic2pg" src="https://github.com/user-attachments/assets/0cc8eab6-bf89-49eb-ab63-e61e210bdd95" />
+This is the 2nd page which shows various keys- 
+First with the a toggle for confession where the software captures the voice without the need for typing. 
+Second key for the toggle voice mode which can be switched on or off according to the users wish. 
+Third is a box for the typing of your prompt.
+Fourth is Get Answer which provides an answer according to the prompt. 
+Fifth is the box for insult of the day which basically is a short level of sarcastic message to the user.
+Sixth is the button to the next page for the real rage to begin.
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
-
-Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
-
-For Hardware:
-
-Schematic & Circuit
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
-
-Build Photos
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
+<img width="1907" height="917" alt="ookholic3pg" src="https://github.com/user-attachments/assets/c0a4f258-395d-40ae-83f5-fddf97dcd0ed" />
+Last and Final page that is completely for the user to show the rage. The extreme anger or the feeling is expresssed in this page and then shred with an audio so that user feels some calmness among the storm.
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
 
-Additional Demos
-[Add any extra demo materials/links]
+https://github.com/user-attachments/assets/711d4051-dcbd-4093-bc2d-84f1ee2a729f
+
+
+
+
+
+
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+Shibin Biju Mathew
 Made with ❤️ at TinkerHub Useless Projects
 
 Static Badge 
